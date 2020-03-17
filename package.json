@@ -1,0 +1,19 @@
+{
+  "name": "git-sticker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^6.2.0",
+    "node-rsa": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node enter.js",
+    "keygen": "node keygen.js",
+    "test": "node decrypt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
