@@ -1,6 +1,8 @@
 private.txt
 private.key
 
+.vscode
+
 # Logs
 logs
 *.log

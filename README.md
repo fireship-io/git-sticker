@@ -22,6 +22,6 @@ Note: You must have Node 10 installed locally.
 1. `git push origin mysticker`
 1. open new pull request on Github
 
-Your commit must contain **only 1 file**. Verify that you did not change any existing code before making your PR.
+Your commit must contain **only 1 file**. Verify that you did not change any existing code before making your PR. Do not commit any automatically modified yarn or package-json.lock files. 
 
 [Follow me on Github](https://github.com/codediodeio) to keep track of new projects landing Fireship 🔥
