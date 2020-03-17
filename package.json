@@ -14,6 +14,6 @@
     "test": "node decrypt.js"
   },
   "keywords": [],
-  "author": "fireship-io",
+  "author": "",
   "license": "ISC"
 }
