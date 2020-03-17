@@ -1,4 +1,4 @@
-🚨 The first 200 PRs get the holographic sticker show below. All PRs after will get a regular Fireship sticker until they run out. 
+🚨 The first 200 PRs get the holographic sticker shown below. PRs after will get a regular Fireship sticker until they run out. 
 
 📺 Watch [How to Submit a Pull Request in 100 Seconds](https://youtu.be/8lGpZkjnkt4) on YouTube
 
