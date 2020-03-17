@@ -1,4 +1,4 @@
-📺 Watch [How to Submit a Pull Request in 100 Seconds]() on YouTube
+📺 Watch [How to Submit a Pull Request in 100 Seconds](https://youtu.be/8lGpZkjnkt4) on YouTube
 
 ![Fireship Sticker](https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Fsticker-holo.png?alt=media&token=b41ebeaf-d5e9-4823-a294-5b11e63d7284)
 
