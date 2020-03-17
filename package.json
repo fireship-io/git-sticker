@@ -9,7 +9,7 @@
     "node-rsa": "^1.0.1"
   },
   "scripts": {
-    "start": "node enter.js",
+    "start": "node index.js",
     "keygen": "node keygen.js",
     "test": "node decrypt.js"
   },
