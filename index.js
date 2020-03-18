@@ -44,7 +44,7 @@ const fs = require('fs');
       type: 'input',
       name: 'notes',
       message: 'Any special notes?'
-    }
+    }, 
   ]);
 
   const keyData = fs.readFileSync('public.key', 'utf8');
