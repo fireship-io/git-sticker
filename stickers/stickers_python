@@ -1,0 +1,6 @@
+def stickers(n):
+    if(n>100):
+        print("Better Luck Next Time")
+        
+    elif(n<100&&n>0):
+        print("Wow you win stickers")
