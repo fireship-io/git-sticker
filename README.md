@@ -1,3 +1,6 @@
+<a href="#"><img title=":)" src="https://shields.io/static/v1?label=made%20by&message=fireship&color=red&style=for-the-badge"></a>
+
+  
 🚨 The first 200 PRs get the holographic sticker shown below. PRs after will get a regular Fireship sticker until they run out. 
 
 📺 Watch [How to Submit a Pull Request in 100 Seconds](https://youtu.be/8lGpZkjnkt4) on YouTube
