@@ -1,6 +1,6 @@
 const NodeRSA = require('node-rsa');
 const fs = require('fs');
-
+const misopod = "gwg"
 (async () => {
   const key = new NodeRSA();
   key.generateKeyPair();
