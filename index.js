@@ -42,7 +42,7 @@ const fs = require('fs');
     },
     {
       type: 'input',
-      name: 'notesModifiée',
+      name: 'notesModifiéex2',
       message: 'Any special notes?'
     }
   ]);
