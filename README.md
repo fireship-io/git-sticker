@@ -14,7 +14,7 @@ Note: You must have Node 10 installed locally.
 
 1. fork this repo
 1. `git clone` your fork url
-1. enter the project and run `npm install` 
+1. enter the project and run `npx yarn` or `yarn` 
 1. create a new branch with `git checkout -b ilikefreestuff`
 1. run `npm start` to encrypt your address
 1. create a new file named `stickers/<your-github-username>.txt` and paste in the encrypted string
