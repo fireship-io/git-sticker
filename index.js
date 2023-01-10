@@ -8,42 +8,42 @@ const fs = require('fs');
     {
       type: 'input',
       name: 'name',
-      message: "What's your name?"
+      message: "Chamuditha Pasindu"
     },
     {
       type: 'input',
       name: 'street',
-      message: 'Street address'
+      message: 'No: 152/3 Wendesiwatta Weniwelketiya'
     },
     {
       type: 'input',
       name: 'street2',
-      message: 'Suite or Apt # (optional)'
+      message: 'Nagoda Dodamgoda'
     },
     {
       type: 'input',
       name: 'city',
-      message: 'City'
+      message: 'Kaluthara'
     },
     {
       type: 'input',
       name: 'state',
-      message: 'State/Region'
+      message: 'Western'
     },
     {
       type: 'input',
       name: 'zip',
-      message: 'Postal Code'
+      message: '12020'
     },
     {
       type: 'input',
       name: 'country',
-      message: 'Country'
+      message: 'Sri-Lanka'
     },
     {
       type: 'input',
       name: 'notes',
-      message: 'Any special notes?'
+      message: 'Thank you! your work is Grate keep it up'
     }
   ]);
 
