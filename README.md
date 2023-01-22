@@ -21,7 +21,6 @@ Note: You must have Node 10 installed locally.
 1. run `git add .` and `git commit -m "your-message"`
 1. `git push origin ilikefreestuff`
 1. open new pull request on Github
-1. Priyam Gupta Hello
 
 
 
