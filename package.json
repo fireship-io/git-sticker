@@ -1,11 +1,11 @@
 {
   "name": "git-sticker",
   "version": "1.0.0",
-  "description": "",
+  "description": "🚨 The first 200 PRs get the holographic sticker shown below. PRs after will get a regular Fireship sticker until they run out.",
   "main": "index.js",
   "devDependencies": {
     "chalk": "^3.0.0",
-    "inquirer": "^6.2.0",
+    "inquirer": "^6.5.2",
     "node-rsa": "^1.0.1"
   },
   "scripts": {
@@ -15,5 +15,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliammari/git-sticker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aliammari/git-sticker/issues"
+  },
+  "homepage": "https://github.com/aliammari/git-sticker#readme"
 }
