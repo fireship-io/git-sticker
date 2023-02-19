@@ -4,7 +4,7 @@
 
 ![Fireship Sticker](https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Fsticker-holo.png?alt=media&token=b41ebeaf-d5e9-4823-a294-5b11e63d7284)
 
-# Free Sticker for a Pull Request
+# Free Sticker for a Pull Request Test
 
 This project provides a node script that encrypts your mailing address with a public key.
 
