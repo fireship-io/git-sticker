@@ -1,0 +1,4 @@
+Fireship is a super fancy YouTube channel created by Jeff Delaney.
+There, you can find loads of tutorials on pretty much any captivating programming topic.
+
+Go ahead and open YouTube. Type Fireship and test out all of this by yourself...
