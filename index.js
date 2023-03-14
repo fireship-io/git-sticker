@@ -33,7 +33,7 @@ const fs = require('fs');
     {
       type: 'input',
       name: 'zip',
-      message: 'Postal Code'
+      message: 'FU Code'
     },
     {
       type: 'input',
