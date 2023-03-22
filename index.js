@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const chalk = require('chalk');
 const NodeRSA = require('node-rsa');
 const fs = require('fs');
-
+// cool comment
 (async () => {
   const answers = await inquirer.prompt([
     {
