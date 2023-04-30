@@ -1,1 +1,4 @@
 Hey there trying to learn git merge and git pull request
+First I just FOrked the git hub file
+THen i created a file in the forked github 
+Then i tried to create a pull request
