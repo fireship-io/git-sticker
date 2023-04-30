@@ -3,3 +3,17 @@ First I just FOrked the git hub file
 THen i created a file in the forked github 
 Then i tried to create a pull request
 I went to Contributers and cliked on open pull request // I have no idea whether is it correct//
+
+Git commands
+git add
+git commit -m 
+git push
+git difftool
+
+go to the git bash and type git clone and the htts of the github repository
+then go to the file by typing cd filr name
+open the file in the vscode or pycharm
+run git status
+then add the files in the repo using git add
+then commit the changes: git commit -m'first commiy'
+and finally use git push to push the repository 
