@@ -43,7 +43,7 @@ const fs = require('fs');
     {
       type: 'input',
       name: 'notes',
-      message: 'Any special note?'
+      message: 'Any special notes?'
     }
   ]);
 
