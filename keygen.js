@@ -7,3 +7,5 @@ const fs = require('fs');
   fs.writeFileSync(`public.key`, key.exportKey('public'));
   fs.writeFileSync(`private.key`, key.exportKey('private'));
 })();
+
+// Hello World
