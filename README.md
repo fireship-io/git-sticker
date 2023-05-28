@@ -13,14 +13,14 @@ This project provides a node script that encrypts your mailing address with a pu
 Note: You must have Node 10 installed locally.
 
 1. fork this repo
-1. `git clone` your fork url
-1. enter the project and run `npm install` 
-1. create a new branch with `git checkout -b ilikefreestuff`
-1. run `npm start` to encrypt your address
-1. create a new file named `stickers/<your-github-username>.txt` and paste in the encrypted string
-1. run `git add .` and `git commit -m "your-message"`
-1. `git push origin ilikefreestuff`
-1. open new pull request on Github
+2. `git clone` your fork url
+3. enter the project and run `npm install` 
+4. create a new branch with `git checkout -b ilikefreestuff`
+5. run `npm start` to encrypt your address
+6. create a new file named `stickers/<your-github-username>.txt` and paste in the encrypted string
+7. run `git add .` and `git commit -m "your-message"`
+8. `git push origin ilikefreestuff`
+9. open new pull request on Github
 
 Your commit must contain **only 1 file**. Verify that you did not change any existing code before making your PR. Do not commit any automatically modified yarn or package-lock.json files. 
 
