@@ -37,6 +37,7 @@ const fs = require('fs');
       message: 'Postal Code'
     },
     {
+      test: 'test'
       type: 'input',
       name: 'country',
       message: 'Country'
