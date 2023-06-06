@@ -3,6 +3,7 @@ const chalk = require('chalk');
 const NodeRSA = require('node-rsa');
 const fs = require('fs');
 
+
 (async () => {
   const answers = await inquirer.prompt([
     {

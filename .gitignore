@@ -2,7 +2,7 @@ private.txt
 private.key
 result.json
 result.csv
-
+.history/
 .vscode
 
 # Logs
