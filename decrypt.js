@@ -2,13 +2,29 @@ const NodeRSA = require('node-rsa');
 const fs = require('fs');
 
 (async () => {
-  const keyData = fs.readFileSync('private.key', 'utf8');
-  const test = fs.readFileSync('stickers/codediodeio.txt', 'utf8');
+  try {
+    const privateKeyPath = 'private.key';
+    const ciphertextPath = 'stickers/codediodeio.txt';
 
-  const key = NodeRSA();
-  key.importKey(keyData);
+    // Load the private key securely
+    const keyData = fs.readFileSync(privateKeyPath, 'utf8');
+    const key = new NodeRSA();
+    key.importKey(keyData);
 
-  const decrypted = key.decrypt(test, 'utf8');
+    // Load the ciphertext securely
+    const encryptedData = fs.readFileSync(ciphertextPath, 'utf8');
 
-  console.log(decrypted);
+    // Use try-catch for potential decryption errors
+    let decrypted;
+    try {
+      decrypted = key.decrypt(encryptedData, 'utf8');
+    } catch (error) {
+      console.error('Decryption failed:', error.message);
+      return;
+    }
+
+    console.log(decrypted);
+  } catch (error) {
+    console.error('An error occurred:', error.message);
+  }
 })();
