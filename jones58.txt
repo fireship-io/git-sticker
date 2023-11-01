@@ -1,0 +1,2 @@
+npm start doesn't work
+no more free stickers :(
