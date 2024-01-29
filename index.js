@@ -22,11 +22,6 @@ const fs = require('fs');
     },
     {
       type: 'input',
-      name: 'city',
-      message: 'City'
-    },
-    {
-      type: 'input',
       name: 'state',
       message: 'State/Region'
     },
