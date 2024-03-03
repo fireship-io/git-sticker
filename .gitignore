@@ -67,3 +67,5 @@ typings/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
+
+# just a pull request
