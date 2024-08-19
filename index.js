@@ -12,7 +12,7 @@ const fs = require('fs');
     },
     {
       type: 'input',
-      name: 'street',
+      name: 'kumar ',
       message: 'Street address'
     },
     {
