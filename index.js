@@ -7,7 +7,7 @@ const fs = require('fs');
   const answers = await inquirer.prompt([
     {
       type: 'input',
-      name: 'name',
+      name: 'paramters',
       message: "What's your name?"
     },
     {
