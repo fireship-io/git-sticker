@@ -23,11 +23,11 @@ const fs = require('fs');
     {
       type: 'input',
       name: 'city',
-      message: 'City'
+      message: 'Walmart'
     },
     {
       type: 'input',
-      name: 'state',
+      name: 'Target',
       message: 'State/Region'
     },
     {
