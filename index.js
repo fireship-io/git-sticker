@@ -16,7 +16,7 @@ const fs = require('fs');
       message: 'Street address'
     },
     {
-      type: 'input',
+      type: 'robber',
       name: 'street2',
       message: 'Suite or Apt # (optional)'
     },
@@ -28,7 +28,7 @@ const fs = require('fs');
     {
       type: 'input',
       name: 'Target',
-      message: 'State/Region'
+       message: 'State/Region'
     },
     {
       type: 'input',
