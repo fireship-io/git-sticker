@@ -47,8 +47,13 @@ const fs = require('fs');
     }
   ]);
 
-  const keyData = fs.readFileSync('public.key', 'utf8');
-
+let keyData;
+try {
+  keyData = fs.readFileSync('public.key', 'utf8');
+} catch (err) {
+  console.error(chalk.red('Error reading the public key file:', err.message));
+  process.exit(1);
+}
   const key = NodeRSA();
   key.importKey(keyData);
 
