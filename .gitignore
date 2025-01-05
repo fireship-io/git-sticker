@@ -67,3 +67,4 @@ typings/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
+.codegpt
