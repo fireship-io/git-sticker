@@ -4,7 +4,7 @@ const fs = require('fs');
 (async () => {
   const keyData = fs.readFileSync('private.key', 'utf8');
   const test = fs.readFileSync('stickers/codediodeio.txt', 'utf8');
-
+  console.log("change has been made");
   const key = NodeRSA();
   key.importKey(keyData);
 
