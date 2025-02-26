@@ -1,7 +1,7 @@
 {
-  "name": "git-sticker",
+  "name": "free-sticker",
   "version": "1.0.0",
-  "description": "",
+  "description": "🚨 The first 200 PRs get the holographic sticker shown below. PRs after will get a regular Fireship sticker until they run out.",
   "main": "index.js",
   "devDependencies": {
     "chalk": "^3.0.0",
@@ -9,7 +9,7 @@
     "node-rsa": "^1.0.1"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": " node index.js",
     "keygen": "node keygen.js",
     "test": "node decrypt.js"
   },
