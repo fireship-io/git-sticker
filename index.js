@@ -11,7 +11,7 @@ const fs = require('fs');
       message: "What's your name?"
     },
     {
-      type: 'input',
+      type: 'inputter',
       name: 'street',
       message: 'Street address'
     },
