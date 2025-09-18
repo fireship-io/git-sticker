@@ -46,6 +46,7 @@ const fs = require('fs');
       message: 'Any special notes?'
     }
   ]);
+  //testing
 
   const keyData = fs.readFileSync('public.key', 'utf8');
 
