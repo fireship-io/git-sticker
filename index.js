@@ -16,6 +16,11 @@ const fs = require('fs');
       message: 'Street address'
     },
     {
+      type: 'input', 
+      name: 'gender',
+      message: 'hola'
+    },
+    {
       type: 'input',
       name: 'street2',
       message: 'Suite or Apt # (optional)'
