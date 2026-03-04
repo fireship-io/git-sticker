@@ -1,5 +1,5 @@
 const NodeRSA = require('node-rsa');
-const fs = require('fs');
+const fs = require('fs')
 
 (async () => {
   const key = new NodeRSA();
