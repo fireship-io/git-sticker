@@ -1,4 +1,5 @@
-const inquirer = require('inquirer');
+const inquirerModule = require("inquirer");
+const inquirer = inquirerModule.default ?? inquirerModule;
 const chalk = require('chalk');
 const NodeRSA = require('node-rsa');
 const fs = require('fs');
